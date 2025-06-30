@@ -30,7 +30,7 @@ Install the package in a Laravel Nova project via Composer:
 
 ```bash
 # Install package
-composer require outl1ne/nova-sortable
+composer require dmitrychurkin/nova-sortable
 ```
 
 ## Usage
